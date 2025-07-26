@@ -32,3 +32,81 @@
 
 17.Check if marks are greater than or equal to passing marks.
 
+--------- if and else ------------------------------------
+1. Check if a Number is Multiple of 10
+
+Input a number.
+
+Output: "Multiple of 10" or "Not a multiple of 10".
+
+2. Check Uppercase or Not
+
+Input a character.
+
+If between 'A' to 'Z' → Uppercase
+
+Else → Not uppercase
+
+3. Check Lowercase or Not
+
+Input a character.
+
+If between 'a' to 'z' → Lowercase
+
+Else → Not lowercase
+
+4. Check if Number is Within Range (1–100)
+
+Input a number.
+
+If between 1 to 100 → "In range"
+
+Else → "Out of range"
+
+5. Check for Square or Not (Length vs Breadth)
+
+Input length and breadth.
+
+If both are equal → "It is a square"
+
+Else → "It is a rectangle"
+
+6. Check if Character is Alphabet or Not
+
+Input a character.
+
+If it is between 'A'–'Z' or 'a'–'z' → "Alphabet"
+
+Else → "Not an alphabet"
+
+7. Check if Salary is Above Average
+
+Input salary.
+
+If salary > 20000 → "Above average"
+
+Else → "Below average"
+
+8. Check if Temperature is Hot or Cold
+
+Input temperature.
+
+If temp >= 30 → "Hot"
+
+Else → "Cold"
+
+9. Check if Speed is Over Limit
+
+Input vehicle speed.
+
+If speed > 60 → "Over speed limit"
+
+Else → "Within limit"
+
+10. Check if Light is ON or OFF
+
+Input 1 or 0.
+
+If 1 → "Light is ON"
+
+Else → "Light is OFF"
