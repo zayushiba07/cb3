@@ -304,3 +304,56 @@ A Rashi-related program is a program that takes the user's birth date (day and m
 
 The logic is typically implemented using an if-else if ladder, where each block checks if the given date falls within the specific date range of a Rashi.
 
+------- for loop -----
+
+1. **Print numbers 1 to 10**
+
+2. **Print even numbers between 1 to 100**
+
+3. **Print odd numbers between 1 to 100**
+
+4. **Print squares of numbers from 1 to 20**
+
+5. **Print multiplication table of any number (e.g., 7)**
+
+6. **Print first 10 multiples of 5**
+
+7. **Print all uppercase alphabets (A to Z)**
+
+8. **Print all lowercase alphabets (a to z)**
+
+9. **Print numbers in reverse from 50 to 1**
+
+10. **Calculate sum of first N natural numbers**
+
+11. **Print factorial using loop (without if)**
+
+12. **Print a fixed star pattern like:**
+
+    ```
+    *****
+    *****
+    *****
+    ```
+
+13. **Print number pattern like:**
+
+    ```
+    1 2 3 4 5
+    ```
+
+14. **Print cube of numbers from 1 to 10**
+
+15. **Print table of squares: n and n² for n=1 to 10**
+
+16. **Print ASCII values for characters A to Z**
+
+17. **Repeat a name 10 times**
+
+18. **Print sum of first 5 even numbers**
+
+19. **Print sum of first 5 odd numbers**
+
+20. **Print countdown from 10 to 1**
+
+
