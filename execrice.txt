@@ -356,4 +356,6 @@ The logic is typically implemented using an if-else if ladder, where each block 
 
 20. **Print countdown from 10 to 1**
 
+---- while loop---
 
+all for loop program convert into while loop
