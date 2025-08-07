@@ -359,3 +359,33 @@ The logic is typically implemented using an if-else if ladder, where each block 
 ---- while loop---
 
 all for loop program convert into while loop
+
+---------- pattern -----------------------------------
+
+*****
+*   *
+*****
+
+   *
+  ***
+ *****
+
+
+ *****
+  ***
+   *
+
+   *
+  ***
+ *****
+  ***
+   *
+
+   ***
+    *
+   ***
+
+1
+2 3
+4 5 6
+7 8 9 10
