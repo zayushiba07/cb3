@@ -1,1 +1,1 @@
-1
+            printf("%d",column);
