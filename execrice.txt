@@ -389,3 +389,37 @@ all for loop program convert into while loop
 2 3
 4 5 6
 7 8 9 10
+
+----------------🔹 1D Array Programs-----------------
+Store and print array elements
+
+Find sum of array elements
+
+Find average of array elements
+
+Find maximum element
+
+Find minimum element
+
+Count even and odd numbers
+
+-----------------------🔸 2D Array Programs------------------------
+Input and print matrix elements
+
+Add two matrices
+
+Subtract two matrices
+
+Multiply two matrices
+
+Transpose of a matrix
+
+Find row-wise and column-wise sum
+
+Find upper and lower triangle
+
+Diagonal sum of matrix
+
+Identity matrix check
+
+Sparse matrix check
