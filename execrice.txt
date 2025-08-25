@@ -423,3 +423,96 @@ Diagonal sum of matrix
 Identity matrix check
 
 Sparse matrix check
+
+----------------🔹 struct -----------------
+
+Employee Details
+Define a structure employee with:
+
+Employee ID
+
+Name
+
+Department
+
+Salary
+📌 Input and display data for n employees.
+
+Date Structure
+Create a structure date with:
+
+Day
+
+Month
+
+Year
+📌 Write a program to input a date and display it in DD-MM-YYYY format.
+
+Book Details
+Define a structure book:
+
+Book ID
+
+Title
+
+Author
+
+Price
+📌 Display books with price > 500.
+
+✅ Intermediate Level
+Bank Account Management
+Structure account with:
+
+Account Number
+
+Name
+
+Balance
+📌 Input details for 5 customers.
+📌 Display customers with balance < ₹1000.
+
+Student Result Sheet (with array)
+
+Use array of structures to store 10 students.
+
+Calculate total and percentage.
+📌 Display students who scored more than 75%.
+
+Nested Structure (Student + DOB)
+
+Structure dob with day, month, year
+
+Structure student containing dob as a member
+📌 Input and display students with their birthdates.
+
+Structure with Functions
+
+Use structure product with id, name, price
+📌 Pass structure to a function to apply discount.
+
+✅ Advanced
+Sort Employees by Salary
+
+Input n employees into a structure
+📌 Sort and display them in decreasing order of salary.
+
+Structure with Pointer
+
+Use pointer to structure to access and update fields.
+📌 Practice ptr->field syntax.
+
+Library Management System
+
+Structure book with id, title, author, quantity
+📌 Add, search, issue and return books using structure array.
+
+Cricket Player Info
+Structure player:
+
+Name
+
+Matches played
+
+Total runs
+📌 Calculate average runs per match for each player.
